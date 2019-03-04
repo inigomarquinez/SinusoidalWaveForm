@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>resources/Innerspec.png</file>
+        <file>resources/Innerspec_full.png</file>
+    </qresource>
+</RCC>
